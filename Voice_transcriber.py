@@ -1,5 +1,3 @@
-# backend/Voice_Transcriber.py
-
 import tempfile
 import subprocess
 import whisper

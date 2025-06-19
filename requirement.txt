@@ -16,3 +16,4 @@ pydub
 gTTS
 psycopg2-binary 
 SQLAlchemy
+werkzeug
