@@ -21,22 +21,19 @@
 - 🔐 **User Authentication**  
   Secure login and registration system for resume management.
 
-- 📹 **Zoom-Style Interface**  
-  Realistic layout: question panel on the left and recording panel on the right.
-
 ---
 
 ## 🧠 Tech Stack
 
 - **Frontend/UI:** Streamlit  
 - **Voice Recognition:** Whisper (OpenAI)  
-- **NLP:** HuggingFace Transformers  
+- **NLP/LLM Inference:** Groq API (OpenAI-compatible models for ultra-fast responses)  
 - **Database:** PostgreSQL  
 - **Authentication:** Custom login system  
 - **Resume Parsing:** Python PDF/Docx parsing  
 - **Deployment:** Streamlit Cloud / Localhost
 
+
 ---
 
-## 📂 Project Structure
 
